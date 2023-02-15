@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <title>1st Web Page</title>
         <meta charset="utf-8">
     </head>
     <body>
